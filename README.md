@@ -10,10 +10,10 @@ The Aging Fleet: I found that Legacy ships (25+ years old) are slower and cause 
 The Bottleneck: Terminal 460 in AMER is the slowest spot, making it the best place to start making improvements.
 
 📸 Screenshots
-Overview Page: [https://github.com/gawasrutuja/Global_Maritime_Logistics_Operations_Analysis/blob/main/images/Overview_p1.png]
-Suez Effect: [https://github.com/gawasrutuja/Global_Maritime_Logistics_Operations_Analysis/blob/main/images/Suez_Effect_p2.png]
-Infrastructure Bottleneck : [https://github.com/gawasrutuja/Global_Maritime_Logistics_Operations_Analysis/blob/main/images/Efficiency_Anomalies_p4.png]
-Efficiency Anomalies: [https://github.com/gawasrutuja/Global_Maritime_Logistics_Operations_Analysis/blob/main/images/Efficiency_Anomalies_p4.png]
+1. Overview Page: [https://github.com/gawasrutuja/Global_Maritime_Logistics_Operations_Analysis/blob/main/images/Overview_p1.png]
+2. Suez Effect: [https://github.com/gawasrutuja/Global_Maritime_Logistics_Operations_Analysis/blob/main/images/Suez_Effect_p2.png]
+3. Infrastructure Bottleneck : [https://github.com/gawasrutuja/Global_Maritime_Logistics_Operations_Analysis/blob/main/images/Efficiency_Anomalies_p4.png]
+4. Efficiency Anomalies: [https://github.com/gawasrutuja/Global_Maritime_Logistics_Operations_Analysis/blob/main/images/Efficiency_Anomalies_p4.png]
 
 🛠️ How to use this project
 1. Download the .pbix file from this repository.
